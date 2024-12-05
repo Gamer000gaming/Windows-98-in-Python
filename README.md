@@ -5,5 +5,10 @@ Ceci est un système de fenêtres basique en python. Il inclut les fonctionnalit
  - Possibilité de réduire et restaurter des fenêtres
  - Possibilité de fermer et d'ouvrir des fenêtres
  - Une barre des tâches
+ - Installation / désinstallation d'applications
+ - Une bibliothèque d'apps en ligne
+ - Un menu Démarrer fonctionnel
+
+Je vais aussi ajouter des easter eggs, essayez de les trouver!
 
 Ce projet n'est plus abandonné, et il revient avec plus de fonctionnalités!
