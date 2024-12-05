@@ -122,11 +122,3 @@ class StartMenu(tk.Frame):
             return []
         programs = [f[:-3] for f in os.listdir(program_dir) if f.endswith(".py") and not f.startswith("__")]
         return programs
-
-
-# Exemple d'initialisation
-if __name__ == "__main__":
-    root = tk.Tk()
-    root.geometry("800x600")
-    taskbar = Taskbar(root)
-    root.mainloop()
