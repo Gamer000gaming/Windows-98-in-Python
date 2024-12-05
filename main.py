@@ -14,9 +14,9 @@ if __name__ == "__main__":
 
     window2 = Window(taskbar, root, "Fenêtre 2", width=100, height=100, bg="lightcoral")
     window2.place(x=100, y=100)
-    supertext.open_editor(window2)
+    supertext.open(window2)
 
     window3 = Window(taskbar, root, "Fenêtre 3", width=100, height=100, bg="lightcoral")
-    window3.place(x=100, y=100)
+    window3.place(x=150, y=150)
     
     root.mainloop()
