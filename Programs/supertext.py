@@ -70,9 +70,11 @@ def update_text():
         current_text = new_text
 
 
-def open_editor(master=None, path=None):
+def open(master=None, path=None):
     global text_widget
 
+    master.title("Supertext Editor")
+    
     frame = tk.Frame(master)
     frame.pack(fill=tk.BOTH, expand=True)
 
@@ -118,7 +120,7 @@ def open_editor(master=None, path=None):
 
 def start_editor():
     root = tk.Tk()
-    open_editor(root)
+    open(root)
     root.mainloop()
 
 
