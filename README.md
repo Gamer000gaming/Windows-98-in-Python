@@ -1,4 +1,6 @@
-# Windows 98 in Python 
+# Ce projet n'est plus abandonné, et il revient avec plus de fonctionnalités!
+## Windows 98 in Python
+
 Ceci est un système de fenêtres basique en python. Il inclut les fonctionnalités suivantes:
  - Gestion de la superposition et du focus
  - Possibilité de mettre en plein écran des fenêtres
@@ -11,4 +13,4 @@ Ceci est un système de fenêtres basique en python. Il inclut les fonctionnalit
 
 Je vais aussi ajouter des easter eggs, essayez de les trouver!
 
-Ce projet n'est plus abandonné, et il revient avec plus de fonctionnalités!
+Pour développer vos applications, allez voir le wiki.
