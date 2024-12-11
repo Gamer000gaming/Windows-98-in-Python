@@ -14,3 +14,5 @@ Ceci est un système de fenêtres basique en python. Il inclut les fonctionnalit
 Je vais aussi ajouter des easter eggs, essayez de les trouver!
 
 Pour développer vos applications, allez voir le wiki.
+
+Vous pouvez aussi proposer des ajouts avec des pull requests! J'essaierai de toutes les examiner.
